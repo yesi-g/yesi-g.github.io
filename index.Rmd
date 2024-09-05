@@ -1,0 +1,45 @@
+---
+title: "Yesenia Garcia, LCSW"
+image: "yesi.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/yesenia-garcia-2019/"
+  - label: Twitter
+    url: "https://x.com/yesi911"
+  - label: GitHub
+    url: "https://github.com/yesi-g/yesi-g.github.io"
+  - label: Email
+    url: "mailto:garcia.yesi@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Yesenia (Yesi) Garcia is a third-year PhD student in the Department of Mental Health at the Johns Hopkins Bloomberg School of Public Health. Her research broadly focuses on the prevention and treatment of mental health in families living in under-resourced communities globally. She utilizes mixed methods in her research, with a strong interest in measurement, program development, and program evaluation, to enhance the effectiveness of mental health interventions.
+
+## Education
+
+**Johns Hopkins University** | Baltimore, MD
+
+Ph.D. in Psychiatric Epidemiology | September 2022 - May 2026
+
+**University of California, Los Angeles** | Los Angeles, CA
+
+(MSW) Master in Social Welfare | September 2017 - May 2019
+
+**University of California, Santa Barbara** | Santa Barbara, CA
+
+B.A. in Psychology and Sociology | September 2012 - May 2016
+
+## Experience
+
+**Johns Hopkins University, Department of Population, Family and Reproductive Health** | Research Assistant | October 2023 - Present
+
+**Johns Hopkins University, Department of Psychiatry and Behavioral Sciences** | Research Assistant | April 2023 - Present
+
+**HEAL Refugee Health and Asylum Collaborative** | Lead Facilitator and Research Consultant | January 2023 - September 2024
+
+**University of Michigan, Multicultural Praxis Lab** | Research Assistant | May 2021 - August 2022
+
+**Instituto Mexicano de Seguro Social (IMSS), Mexico** | Program Developer/Researcher Intern | June 2018 - August 2018
